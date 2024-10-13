@@ -1,12 +1,10 @@
 {
-    "name": "denisbespyatov/yii2-notifications",
+    "name": "denisbespyatov/notifications",
     "description": "Notifications module for Yii2",
     "type": "yii2-extension",
     "keywords": [
         "yii2",
-        "yii2-notifications",
-        "yii2-notifications-module",
-        "yii2-manage-notifications"
+        "yii2 notifications"
     ],
     "authors": [
         {
@@ -25,11 +23,5 @@
     },
     "extra": {
         "bootstrap": "denisbespyatov\\notifications\\Bootstrap"
-    },
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://asset-packagist.org"
-        }
-    ]
+    }
 }
